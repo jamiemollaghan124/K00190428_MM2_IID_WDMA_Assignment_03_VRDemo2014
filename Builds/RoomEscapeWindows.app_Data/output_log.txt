@@ -1,0 +1,52 @@
+Initialize engine version: 5.0.1f1 (5a2e8fe35a68)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: Intel(R) HD Graphics Family (ID=0xa16)
+    Vendor:   Intel
+    VRAM:     896 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: D:\K00190428_MM2_IID_WDMA_Assignment_03_VRDemo_2014\Builds\RoomEscapeWindows.app_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading D:\K00190428_MM2_IID_WDMA_Assignment_03_VRDemo_2014\Builds\RoomEscapeWindows.app_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: D:\K00190428_MM2_IID_WDMA_Assignment_03_VRDemo_2014\Builds\RoomEscapeWindows.app_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading D:\K00190428_MM2_IID_WDMA_Assignment_03_VRDemo_2014\Builds\RoomEscapeWindows.app_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: D:\K00190428_MM2_IID_WDMA_Assignment_03_VRDemo_2014\Builds\RoomEscapeWindows.app_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading D:\K00190428_MM2_IID_WDMA_Assignment_03_VRDemo_2014\Builds\RoomEscapeWindows.app_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: D:\K00190428_MM2_IID_WDMA_Assignment_03_VRDemo_2014\Builds\RoomEscapeWindows.app_Data\Managed\Assembly-UnityScript-firstpass.dll (this message is harmless)
+Loading D:\K00190428_MM2_IID_WDMA_Assignment_03_VRDemo_2014\Builds\RoomEscapeWindows.app_Data\Managed\Assembly-UnityScript-firstpass.dll into Unity Child Domain
+Platform assembly: D:\K00190428_MM2_IID_WDMA_Assignment_03_VRDemo_2014\Builds\RoomEscapeWindows.app_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading D:\K00190428_MM2_IID_WDMA_Assignment_03_VRDemo_2014\Builds\RoomEscapeWindows.app_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: D:\K00190428_MM2_IID_WDMA_Assignment_03_VRDemo_2014\Builds\RoomEscapeWindows.app_Data\Managed\LeapCSharp.NET3.5.dll (this message is harmless)
+Loading D:\K00190428_MM2_IID_WDMA_Assignment_03_VRDemo_2014\Builds\RoomEscapeWindows.app_Data\Managed\LeapCSharp.NET3.5.dll into Unity Child Domain
+- Completed reload, in  0.052 seconds
+<RI> Initializing input.
+XInput1_3.dll not found. Trying XInput9_1_0.dll instead...
+<RI> Input initialized.
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initialized touch support.
+Platform assembly: D:\K00190428_MM2_IID_WDMA_Assignment_03_VRDemo_2014\Builds\RoomEscapeWindows.app_Data\Managed\System.Core.dll (this message is harmless)
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 22a8 -> priority: 1 
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.328438 ms
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 1311.
+Total: 0.386599 ms (FindLiveObjects: 0.079828 ms CreateObjectMapping: 0.058731 ms MarkObjects: 0.225231 ms  DeleteObjects: 0.022238 ms)
+
+Platform assembly: D:\K00190428_MM2_IID_WDMA_Assignment_03_VRDemo_2014\Builds\RoomEscapeWindows.app_Data\Managed\Boo.Lang.dll (this message is harmless)
+Added
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Added
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Added
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Added
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
